@@ -1,5 +1,53 @@
 [
   {
+    "id": "ser",
+    "name": "Cadena SER",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
+    "title": "Radio España",
+    "country": "España",
+    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ser.jpg"
+  },
+  {
+    "id": "es",
+    "name": "EsRadio",
+    "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3",
+    "title": "Radio España",
+    "country": "España",
+    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/es.jpg"
+  },
+  {
+    "id": "cero",
+    "name": "Onda Cero",
+    "url": "https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8",
+    "title": "Radio España",
+    "country": "España",
+    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/cero.jpg"
+  },
+  {
+    "id": "rne",
+    "name": "Radio Nacional",
+    "url": "https://atres-live.ondacero.es/live/ondaceroeventos1/master.m3u8",
+    "title": "Radio España",
+    "country": "España",
+    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/Naces.jpg"
+  },
+  {
+    "id": "marca",
+    "name": "Radio Marca",
+    "url": "https://22653.live.streamtheworld.com/RADIOMARCA_NACIONAL.mp3",
+    "title": "Radio España",
+    "country": "España",
+    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/marca.jpg"
+  },
+  {
+    "id": "cope",
+    "name": "Radio COPE",
+    "url": "https://flucast31-h-cloud.flumotion.com/cope/net2.mp3",
+    "title": "Radio España",
+    "country": "España",
+    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/cope.jpg"
+  },
+  {
     "id": "cha1",
     "name": "Radio chaine 1 الإذاعــة الأولى",
     "url": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
@@ -48,7 +96,6 @@
     "country": "Algeria",
     "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/yaqeen.jpg"
   },
-
   {
     "id": "cora",
     "name": "Radio Quoran Kareem إذاعــة القرآن الكريم",
